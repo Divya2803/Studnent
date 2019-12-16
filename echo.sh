@@ -3,8 +3,7 @@
 
 
 echo "Hello"
-<<<<<<< HEAD
-echo "Godd afternoon" 
+<<<<<<< HE
 =======
 if [ $# -lt 1 ]
 then
